@@ -10,7 +10,7 @@ body{
     align-items: center;
 }
 
-.qrcomponent{
+main{
     background: hsl(0, 0%, 100%);
     width:325px;
     height:500px;
@@ -31,8 +31,12 @@ body{
 h2{
     color:hsl(218, 44%, 22%);
 }
+h1{
+    color:hsl(218, 44%, 22%);
+    font-size: 22px;
+}
 
-h2,p{
+h1,h2,p{
     width: 260px;
     text-align: center;
     margin:0;  
